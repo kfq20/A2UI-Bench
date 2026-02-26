@@ -1,0 +1,28 @@
+{
+  "overall_score": 0.6929,
+  "l1": {
+    "json_parse_rate": 0.9662,
+    "format_compliance": 0.9662,
+    "validator_pass_rate": 0.8937,
+    "l1_score": 0.942,
+    "total_turns": 1035
+  },
+  "l2": {
+    "message_type_accuracy": 0.4796,
+    "component_type_f1": 0.4721,
+    "data_key_recall": 0.1692,
+    "surface_id_accuracy": 0.372,
+    "l2_score": 0.3732,
+    "total_turns": 1035
+  },
+  "l3": {
+    "text_ui_coherence": 4.514,
+    "text_ui_coherence_normalized": 0.8785,
+    "component_appropriateness": 4.446,
+    "component_appropriateness_normalized": 0.8615,
+    "l3_score": 0.87,
+    "judged_turns": 500
+  },
+  "total_dialogues": 100,
+  "total_turns": 1035
+}

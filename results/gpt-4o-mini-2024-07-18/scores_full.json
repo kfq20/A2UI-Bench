@@ -1,0 +1,639 @@
+{
+  "overall_score": 0.5047,
+  "l1": {
+    "json_parse_rate": 0.5882,
+    "format_compliance": 0.5882,
+    "validator_pass_rate": 0.4412,
+    "l1_score": 0.5392,
+    "total_turns": 34,
+    "details": [
+      {
+        "dialogue_id": "MUL2139",
+        "turn_idx": 0,
+        "json_parse": true,
+        "format_compliance": true,
+        "validator_pass": false,
+        "validator_errors": [
+          "Validator crash: unhashable type: 'dict'"
+        ]
+      },
+      {
+        "dialogue_id": "MUL2139",
+        "turn_idx": 1,
+        "json_parse": true,
+        "format_compliance": true,
+        "validator_pass": false,
+        "validator_errors": [
+          "Validator crash: unhashable type: 'dict'"
+        ]
+      },
+      {
+        "dialogue_id": "MUL2139",
+        "turn_idx": 2,
+        "json_parse": true,
+        "format_compliance": true,
+        "validator_pass": false,
+        "validator_errors": [
+          "Validator crash: unhashable type: 'dict'"
+        ]
+      },
+      {
+        "dialogue_id": "MUL2139",
+        "turn_idx": 3,
+        "json_parse": true,
+        "format_compliance": true,
+        "validator_pass": false,
+        "validator_errors": [
+          "Validator crash: unhashable type: 'dict'"
+        ]
+      },
+      {
+        "dialogue_id": "MUL2139",
+        "turn_idx": 4,
+        "json_parse": true,
+        "format_compliance": true,
+        "validator_pass": true
+      },
+      {
+        "dialogue_id": "MUL2139",
+        "turn_idx": 5,
+        "json_parse": true,
+        "format_compliance": true,
+        "validator_pass": true
+      },
+      {
+        "dialogue_id": "MUL2139",
+        "turn_idx": 6,
+        "json_parse": true,
+        "format_compliance": true,
+        "validator_pass": false,
+        "validator_errors": [
+          "Validator crash: unhashable type: 'dict'"
+        ]
+      },
+      {
+        "dialogue_id": "MUL2139",
+        "turn_idx": 7,
+        "json_parse": true,
+        "format_compliance": true,
+        "validator_pass": true
+      },
+      {
+        "dialogue_id": "MUL2139",
+        "turn_idx": 8,
+        "json_parse": true,
+        "format_compliance": true,
+        "validator_pass": true
+      },
+      {
+        "dialogue_id": "MUL2139",
+        "turn_idx": 9,
+        "json_parse": true,
+        "format_compliance": true,
+        "validator_pass": true
+      },
+      {
+        "dialogue_id": "MUL2139",
+        "turn_idx": 10,
+        "json_parse": true,
+        "format_compliance": true,
+        "validator_pass": true
+      },
+      {
+        "dialogue_id": "MUL1076",
+        "turn_idx": 0,
+        "json_parse": false,
+        "format_compliance": false,
+        "validator_pass": false
+      },
+      {
+        "dialogue_id": "MUL1076",
+        "turn_idx": 1,
+        "json_parse": true,
+        "format_compliance": true,
+        "validator_pass": true
+      },
+      {
+        "dialogue_id": "MUL1076",
+        "turn_idx": 2,
+        "json_parse": true,
+        "format_compliance": true,
+        "validator_pass": true
+      },
+      {
+        "dialogue_id": "MUL1076",
+        "turn_idx": 3,
+        "json_parse": true,
+        "format_compliance": true,
+        "validator_pass": true
+      },
+      {
+        "dialogue_id": "MUL1076",
+        "turn_idx": 4,
+        "json_parse": false,
+        "format_compliance": false,
+        "validator_pass": false
+      },
+      {
+        "dialogue_id": "MUL1076",
+        "turn_idx": 5,
+        "json_parse": false,
+        "format_compliance": false,
+        "validator_pass": false
+      },
+      {
+        "dialogue_id": "MUL1076",
+        "turn_idx": 6,
+        "json_parse": true,
+        "format_compliance": true,
+        "validator_pass": true
+      },
+      {
+        "dialogue_id": "MUL1076",
+        "turn_idx": 7,
+        "json_parse": false,
+        "format_compliance": false,
+        "validator_pass": false
+      },
+      {
+        "dialogue_id": "MUL1076",
+        "turn_idx": 8,
+        "json_parse": true,
+        "format_compliance": true,
+        "validator_pass": true
+      },
+      {
+        "dialogue_id": "MUL1076",
+        "turn_idx": 9,
+        "json_parse": true,
+        "format_compliance": true,
+        "validator_pass": true
+      },
+      {
+        "dialogue_id": "MUL1076",
+        "turn_idx": 10,
+        "json_parse": true,
+        "format_compliance": true,
+        "validator_pass": true
+      },
+      {
+        "dialogue_id": "MUL1076",
+        "turn_idx": 11,
+        "json_parse": true,
+        "format_compliance": true,
+        "validator_pass": true
+      },
+      {
+        "dialogue_id": "MUL1076",
+        "turn_idx": 12,
+        "json_parse": true,
+        "format_compliance": true,
+        "validator_pass": true
+      },
+      {
+        "dialogue_id": "MUL0388",
+        "turn_idx": 0,
+        "json_parse": false,
+        "format_compliance": false,
+        "validator_pass": false
+      },
+      {
+        "dialogue_id": "MUL0388",
+        "turn_idx": 1,
+        "json_parse": false,
+        "format_compliance": false,
+        "validator_pass": false
+      },
+      {
+        "dialogue_id": "MUL0388",
+        "turn_idx": 2,
+        "json_parse": false,
+        "format_compliance": false,
+        "validator_pass": false
+      },
+      {
+        "dialogue_id": "MUL0388",
+        "turn_idx": 3,
+        "json_parse": false,
+        "format_compliance": false,
+        "validator_pass": false
+      },
+      {
+        "dialogue_id": "MUL0388",
+        "turn_idx": 4,
+        "json_parse": false,
+        "format_compliance": false,
+        "validator_pass": false
+      },
+      {
+        "dialogue_id": "MUL0388",
+        "turn_idx": 5,
+        "json_parse": false,
+        "format_compliance": false,
+        "validator_pass": false
+      },
+      {
+        "dialogue_id": "MUL0388",
+        "turn_idx": 6,
+        "json_parse": false,
+        "format_compliance": false,
+        "validator_pass": false
+      },
+      {
+        "dialogue_id": "MUL0388",
+        "turn_idx": 7,
+        "json_parse": false,
+        "format_compliance": false,
+        "validator_pass": false
+      },
+      {
+        "dialogue_id": "MUL0388",
+        "turn_idx": 8,
+        "json_parse": false,
+        "format_compliance": false,
+        "validator_pass": false
+      },
+      {
+        "dialogue_id": "MUL0388",
+        "turn_idx": 9,
+        "json_parse": false,
+        "format_compliance": false,
+        "validator_pass": false
+      }
+    ]
+  },
+  "l2": {
+    "message_type_accuracy": 0.2598,
+    "component_type_f1": 0.2916,
+    "data_key_recall": 0.1544,
+    "surface_id_accuracy": 0.3235,
+    "l2_score": 0.2573,
+    "total_turns": 34,
+    "details": [
+      {
+        "dialogue_id": "MUL2139",
+        "turn_idx": 0,
+        "message_type_accuracy": 1.0,
+        "component_type_f1": 0.5,
+        "data_key_recall": 0.25,
+        "surface_id_accuracy": 1.0
+      },
+      {
+        "dialogue_id": "MUL2139",
+        "turn_idx": 1,
+        "message_type_accuracy": 1.0,
+        "component_type_f1": 0.4444,
+        "data_key_recall": 0.0,
+        "surface_id_accuracy": 0.0
+      },
+      {
+        "dialogue_id": "MUL2139",
+        "turn_idx": 2,
+        "message_type_accuracy": 0.8,
+        "component_type_f1": 0.4,
+        "data_key_recall": 0.0,
+        "surface_id_accuracy": 1.0
+      },
+      {
+        "dialogue_id": "MUL2139",
+        "turn_idx": 3,
+        "message_type_accuracy": 0.8,
+        "component_type_f1": 0.5714,
+        "data_key_recall": 0.0,
+        "surface_id_accuracy": 1.0
+      },
+      {
+        "dialogue_id": "MUL2139",
+        "turn_idx": 4,
+        "message_type_accuracy": 0.0,
+        "component_type_f1": 0.0,
+        "data_key_recall": 0.0,
+        "surface_id_accuracy": 0.0
+      },
+      {
+        "dialogue_id": "MUL2139",
+        "turn_idx": 5,
+        "message_type_accuracy": 0.0,
+        "component_type_f1": 0.0,
+        "data_key_recall": 0.0,
+        "surface_id_accuracy": 0.0
+      },
+      {
+        "dialogue_id": "MUL2139",
+        "turn_idx": 6,
+        "message_type_accuracy": 0.0,
+        "component_type_f1": 0.0,
+        "data_key_recall": 0.0,
+        "surface_id_accuracy": 1.0
+      },
+      {
+        "dialogue_id": "MUL2139",
+        "turn_idx": 7,
+        "message_type_accuracy": 0.5,
+        "component_type_f1": 0.0,
+        "data_key_recall": 0.0,
+        "surface_id_accuracy": 1.0
+      },
+      {
+        "dialogue_id": "MUL2139",
+        "turn_idx": 8,
+        "message_type_accuracy": 0.0,
+        "component_type_f1": 0.0,
+        "data_key_recall": 0.0,
+        "surface_id_accuracy": 0.0
+      },
+      {
+        "dialogue_id": "MUL2139",
+        "turn_idx": 9,
+        "message_type_accuracy": 0.0,
+        "component_type_f1": 0.0,
+        "data_key_recall": 0.0,
+        "surface_id_accuracy": 0.0
+      },
+      {
+        "dialogue_id": "MUL2139",
+        "turn_idx": 10,
+        "message_type_accuracy": 0.0,
+        "component_type_f1": 1.0,
+        "data_key_recall": 1.0,
+        "surface_id_accuracy": 0.0
+      },
+      {
+        "dialogue_id": "MUL1076",
+        "turn_idx": 0,
+        "message_type_accuracy": 0.0,
+        "component_type_f1": 0.0,
+        "data_key_recall": 0.0,
+        "surface_id_accuracy": 0.0
+      },
+      {
+        "dialogue_id": "MUL1076",
+        "turn_idx": 1,
+        "message_type_accuracy": 0.6667,
+        "component_type_f1": 0.0,
+        "data_key_recall": 0.0,
+        "surface_id_accuracy": 1.0
+      },
+      {
+        "dialogue_id": "MUL1076",
+        "turn_idx": 2,
+        "message_type_accuracy": 0.4,
+        "component_type_f1": 0.0,
+        "data_key_recall": 0.0,
+        "surface_id_accuracy": 1.0
+      },
+      {
+        "dialogue_id": "MUL1076",
+        "turn_idx": 3,
+        "message_type_accuracy": 0.6667,
+        "component_type_f1": 0.0,
+        "data_key_recall": 0.0,
+        "surface_id_accuracy": 1.0
+      },
+      {
+        "dialogue_id": "MUL1076",
+        "turn_idx": 4,
+        "message_type_accuracy": 0.0,
+        "component_type_f1": 0.0,
+        "data_key_recall": 0.0,
+        "surface_id_accuracy": 0.0
+      },
+      {
+        "dialogue_id": "MUL1076",
+        "turn_idx": 5,
+        "message_type_accuracy": 0.0,
+        "component_type_f1": 0.0,
+        "data_key_recall": 0.0,
+        "surface_id_accuracy": 0.0
+      },
+      {
+        "dialogue_id": "MUL1076",
+        "turn_idx": 6,
+        "message_type_accuracy": 0.0,
+        "component_type_f1": 0.0,
+        "data_key_recall": 0.0,
+        "surface_id_accuracy": 0.0
+      },
+      {
+        "dialogue_id": "MUL1076",
+        "turn_idx": 7,
+        "message_type_accuracy": 0.0,
+        "component_type_f1": 0.0,
+        "data_key_recall": 0.0,
+        "surface_id_accuracy": 0.0
+      },
+      {
+        "dialogue_id": "MUL1076",
+        "turn_idx": 8,
+        "message_type_accuracy": 1.0,
+        "component_type_f1": 1.0,
+        "data_key_recall": 0.0,
+        "surface_id_accuracy": 1.0
+      },
+      {
+        "dialogue_id": "MUL1076",
+        "turn_idx": 9,
+        "message_type_accuracy": 0.0,
+        "component_type_f1": 1.0,
+        "data_key_recall": 0.0,
+        "surface_id_accuracy": 0.0
+      },
+      {
+        "dialogue_id": "MUL1076",
+        "turn_idx": 10,
+        "message_type_accuracy": 1.0,
+        "component_type_f1": 1.0,
+        "data_key_recall": 1.0,
+        "surface_id_accuracy": 1.0
+      },
+      {
+        "dialogue_id": "MUL1076",
+        "turn_idx": 11,
+        "message_type_accuracy": 0.0,
+        "component_type_f1": 1.0,
+        "data_key_recall": 1.0,
+        "surface_id_accuracy": 0.0
+      },
+      {
+        "dialogue_id": "MUL1076",
+        "turn_idx": 12,
+        "message_type_accuracy": 1.0,
+        "component_type_f1": 1.0,
+        "data_key_recall": 1.0,
+        "surface_id_accuracy": 1.0
+      },
+      {
+        "dialogue_id": "MUL0388",
+        "turn_idx": 0,
+        "message_type_accuracy": 0.0,
+        "component_type_f1": 0.0,
+        "data_key_recall": 0.0,
+        "surface_id_accuracy": 0.0
+      },
+      {
+        "dialogue_id": "MUL0388",
+        "turn_idx": 1,
+        "message_type_accuracy": 0.0,
+        "component_type_f1": 0.0,
+        "data_key_recall": 0.0,
+        "surface_id_accuracy": 0.0
+      },
+      {
+        "dialogue_id": "MUL0388",
+        "turn_idx": 2,
+        "message_type_accuracy": 0.0,
+        "component_type_f1": 0.0,
+        "data_key_recall": 0.0,
+        "surface_id_accuracy": 0.0
+      },
+      {
+        "dialogue_id": "MUL0388",
+        "turn_idx": 3,
+        "message_type_accuracy": 0.0,
+        "component_type_f1": 0.0,
+        "data_key_recall": 0.0,
+        "surface_id_accuracy": 0.0
+      },
+      {
+        "dialogue_id": "MUL0388",
+        "turn_idx": 4,
+        "message_type_accuracy": 0.0,
+        "component_type_f1": 0.0,
+        "data_key_recall": 0.0,
+        "surface_id_accuracy": 0.0
+      },
+      {
+        "dialogue_id": "MUL0388",
+        "turn_idx": 5,
+        "message_type_accuracy": 0.0,
+        "component_type_f1": 0.0,
+        "data_key_recall": 0.0,
+        "surface_id_accuracy": 0.0
+      },
+      {
+        "dialogue_id": "MUL0388",
+        "turn_idx": 6,
+        "message_type_accuracy": 0.0,
+        "component_type_f1": 1.0,
+        "data_key_recall": 0.0,
+        "surface_id_accuracy": 0.0
+      },
+      {
+        "dialogue_id": "MUL0388",
+        "turn_idx": 7,
+        "message_type_accuracy": 0.0,
+        "component_type_f1": 0.0,
+        "data_key_recall": 0.0,
+        "surface_id_accuracy": 0.0
+      },
+      {
+        "dialogue_id": "MUL0388",
+        "turn_idx": 8,
+        "message_type_accuracy": 0.0,
+        "component_type_f1": 0.0,
+        "data_key_recall": 0.0,
+        "surface_id_accuracy": 0.0
+      },
+      {
+        "dialogue_id": "MUL0388",
+        "turn_idx": 9,
+        "message_type_accuracy": 0.0,
+        "component_type_f1": 1.0,
+        "data_key_recall": 1.0,
+        "surface_id_accuracy": 0.0
+      }
+    ]
+  },
+  "l3": {
+    "text_ui_coherence": 4.2,
+    "text_ui_coherence_normalized": 0.8,
+    "component_appropriateness": 4.2,
+    "component_appropriateness_normalized": 0.8,
+    "l3_score": 0.8,
+    "judged_turns": 10,
+    "details": [
+      {
+        "dialogue_id": "MUL2139",
+        "turn_idx": 0,
+        "coherence_score": 4,
+        "coherence_reason": "The text indicates a search for guesthouses in the northern area of Cambridge, while the UI allows for input of a specific area labeled 'North.' This implies a slight inconsistency in terms of specificity, but overall the text and UI direction are coherent.",
+        "component_score": 4,
+        "component_reason": "The component choices are mostly appropriate for the task, as they include a clear title, an area input field, and a search button. However, adding a predefined selection for popular northern destinations or a list of guesthouses as search results could improve usability."
+      },
+      {
+        "dialogue_id": "MUL2139",
+        "turn_idx": 1,
+        "coherence_score": 5,
+        "coherence_reason": "The assistant's text clearly states it will focus on expensive guesthouses, which is precisely reflected in the UI's components that filter the search results to 'Expensive' options and provides a search interface for that specific query.",
+        "component_score": 5,
+        "component_reason": "The components chosen are well-suited for the task of searching for expensive guesthouses, with a clear title, an appropriate text field for area input, a multi-choice selection for price range, and a search button, creating an intuitive and efficient UI."
+      },
+      {
+        "dialogue_id": "MUL2139",
+        "turn_idx": 2,
+        "coherence_score": 4,
+        "coherence_reason": "The text indicates a search for '4-star expensive guesthouses in the northern area of Cambridge,' and the UI reflects this with a focus on '4-star' and 'Expensive' options. However, the UI does not explicitly mention 'Cambridge' or specify 'north' as the area, which introduces a minor inconsistency.",
+        "component_score": 4,
+        "component_reason": "The component choices are mostly appropriate, providing a clear structure for the search. The use of a TextField for the area, MultipleChoice for the price and star rating, and a search button align well with the user request. However, the area input could benefit from suggestions or autofill for better user experience."
+      },
+      {
+        "dialogue_id": "MUL2139",
+        "turn_idx": 3,
+        "coherence_score": 4,
+        "coherence_reason": "The text mentions booking a 4-star expensive guesthouse and confirms the booking for 1 person for 3 nights starting Wednesday, which aligns with the UI. However, the UI could clarify the type of guesthouse, and the term 'expensive' is not addressed.",
+        "component_score": 4,
+        "component_reason": "The components chosen effectively communicate the booking confirmation and allow the user to confirm their booking. However, adding more interactive elements or user guidance could enhance clarity and efficiency."
+      },
+      {
+        "dialogue_id": "MUL2139",
+        "turn_idx": 6,
+        "coherence_score": 4,
+        "coherence_reason": "The text correctly indicates that the assistant will search for trains departing after 14:30, which is reflected in the UI that includes a DateTimeInput labeled 'Departure Time (After 14:30)' set to 14:30. However, the UI lacks a specified destination station, which may cause minor confusion.",
+        "component_score": 4,
+        "component_reason": "The components chosen are appropriate for a train search interface, with clear labels and a structured layout. However, it could improve by adding a time picker for better user experience in selecting times."
+      },
+      {
+        "dialogue_id": "MUL2139",
+        "turn_idx": 7,
+        "coherence_score": 4,
+        "coherence_reason": "The text states that the assistant is gathering arrival information, which aligns with the UI showing 'Arrival: TBD'. However, the UI uses 'Please wait, searching for arrival details...' while the text does not explicitly reflect that interim status.",
+        "component_score": 4,
+        "component_reason": "The components chosen effectively present the departure and arrival information, but the placeholder 'Arrival: TBD' could be improved by providing a more user-friendly message during the loading process."
+      },
+      {
+        "dialogue_id": "MUL1076",
+        "turn_idx": 1,
+        "coherence_score": 5,
+        "coherence_reason": "The text accurately reflects the UI by indicating a focus on guesthouses, which is confirmed by the JSON where the accommodation type is set to 'Guesthouse'.",
+        "component_score": 5,
+        "component_reason": "The component choices are perfect; the update to the data model clearly specifies the accommodation type being refined, aligning well with the user's request for a guesthouse."
+      },
+      {
+        "dialogue_id": "MUL1076",
+        "turn_idx": 2,
+        "coherence_score": 4,
+        "coherence_reason": "The text indicates that a guesthouse is being booked with specific features in mind, while the UI confirms a successful booking without detailing the features mentioned in the text.",
+        "component_score": 4,
+        "component_reason": "The choice to delete the hotel search surface and update the booking confirmation message is good, as it focuses on providing clear feedback to the user. A minor improvement could be providing more details about the booked guesthouse."
+      },
+      {
+        "dialogue_id": "MUL1076",
+        "turn_idx": 3,
+        "coherence_score": 4,
+        "coherence_reason": "The text states that the booking details are being revised for 8 people for 4 nights starting this Saturday, but the UI contains 'This Saturday' instead of a specific date. Although the information is mostly consistent, the phrasing in the UI could lead to minor confusion.",
+        "component_score": 4,
+        "component_reason": "The component choices effectively address the inputs provided by the user, but the phrasing of 'This Saturday' for the date could be improved for clarity, such as using a specific date format."
+      },
+      {
+        "dialogue_id": "MUL1076",
+        "turn_idx": 8,
+        "coherence_score": 4,
+        "coherence_reason": "The text states that the assistant will provide the postcode for the Museum of Science, which it does in the UI. However, it mentions confirming the location in Cambridge while the UI specifies a postcode that might not reflect that confirmation clearly.",
+        "component_score": 4,
+        "component_reason": "The component choice effectively provides the requested information (postcode) but could also consider including a confirmation or interactive element to improve user engagement."
+      }
+    ]
+  },
+  "total_dialogues": 3,
+  "total_turns": 34
+}
